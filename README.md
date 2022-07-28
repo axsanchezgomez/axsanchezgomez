@@ -1,14 +1,7 @@
-### Hi there 👋
+### Hi there Im Alejandro Sanchez 👋
 
-<!--
-**axsanchezgomez/axsanchezgomez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- 📫 How to reach me: [LinkIn](https://www.linkedin.com/in/axsanchezgomez/) , or by [Email](axsanchezgomez@gmail.com).
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a variety small projects to get a deeper understanding of different Data Science tools and techniques.
+- 🌱 I’m currently learning Linear Algebra to better assist on my small side projects and hopefully make my code more efficient.  
+- 👯 I’m looking to collaborate on anything that has to do with Data Science, Data Analysis, Data Visualization, Machine Learning, or Data Engineering I am looking to get as much experience as I can as I am activbeley Job searching.  
+- 📫 How to reach me: [LinkIn](https://www.linkedin.com/in/axsanchezgomez/) , [Email](axsanchezgomez@gmail.com).
+- ⚡ Fun fact: I never miss a Real Madrid Game :soccer:
